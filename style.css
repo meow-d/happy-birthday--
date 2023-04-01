@@ -40,3 +40,8 @@
                 transform: translateY(0px);
             }
         }
+
+body {
+  background-image: url("/kris.png");
+   background-repeat: repeat;
+}
